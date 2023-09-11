@@ -1,0 +1,15 @@
+# ninja log v5
+0	66	7161374293526721	CMakeFiles/untitled3.dir/main.c.obj	485a4880e7f1f21f
+67	138	7161374294206247	untitled3.exe	4f15f8a803228d2a
+2	49	7161379100228794	CMakeFiles/untitled3.dir/Demo_1/Sum.c.obj	da6b0998131c0dfb
+49	117	7161379100862303	untitled3.exe	cc755cbc87e5fd00
+2	69	7161380122247829	CMakeFiles/untitled3.dir/Demo_1/Sum.c.obj	da6b0998131c0dfb
+4	220	7161400578398103	CMakeFiles/untitled3.dir/Demo_1/Sum.c.obj	da6b0998131c0dfb
+220	578	7161400581920926	untitled3.exe	cc755cbc87e5fd00
+2	64	7161401451276728	CMakeFiles/untitled3.dir/Demo_1/Sum.c.obj	da6b0998131c0dfb
+1	65	7161401610033571	CMakeFiles/untitled3.dir/Demo_1/Sum.c.obj	da6b0998131c0dfb
+2	66	7161401826136431	CMakeFiles/untitled3.dir/main.c.obj	485a4880e7f1f21f
+67	148	7161401826876348	untitled3.exe	cc755cbc87e5fd00
+5	73	7161405362050445	CMakeFiles/untitled3.dir/Demo_1/Sum.c.obj	da6b0998131c0dfb
+2	77	7161405362098219	CMakeFiles/untitled3.dir/main.c.obj	485a4880e7f1f21f
+78	152	7161405362811992	untitled3.exe	cc755cbc87e5fd00
